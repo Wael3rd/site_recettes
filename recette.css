@@ -153,9 +153,9 @@ table.preparation {
     margin-top: -5px;
 }
 
-@media only screen and (min-width: 1200px){
+@media only screen and (min-width: 1100px){
     div.content{
-        background-color: red;
+        background-color: yellow;
         min-width: 400px;
         margin: 60px 10% 80px 10%;
         padding: 0px 30px 30px 30px;
